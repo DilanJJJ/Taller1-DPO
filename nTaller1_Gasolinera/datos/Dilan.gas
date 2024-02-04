@@ -1,0 +1,13 @@
+tipo:Oil:70:50.0
+tipo:Extra:200:100.0
+tipo:Corriente:150:300.0
+tipo:Disel:100:50.0
+surtidor:Esteban Rodriguez:Oil:0.0:Extra:0.0:Corriente:0.0:Disel:0.0
+surtidor:Tom york:Oil:0.0:Extra:0.0:Corriente:0.0:Disel:0.0
+surtidor:Dilan Escobar:Oil:0.0:Extra:0.0:Corriente:0.0:Disel:0.0
+surtidor:Susana Dominguez:Oil:0.0:Extra:0.0:Corriente:0.0:Disel:0.0
+empleado:Dilan Escobar:0
+empleado:Esteban Rodriguez:0
+empleado:Susana Dominguez:0
+empleado:Julian Torres:0
+empleado:Tom york:0
